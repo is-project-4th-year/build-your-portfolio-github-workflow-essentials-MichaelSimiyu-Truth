@@ -3,8 +3,8 @@
 ## 1. Student Details
 
 - **Full name**:Simiyu, Michael Keith Wanjala
-- **GitHub Username** MichaelSimiyu-Truth
-- **Email**: michael.simiyu@strathmore.edu
+- **GitHub Username**:MichaelSimiyu-Truth
+- **Email**:michael.simiyu@strathmore.edu
 
 ## 2. Deployed Portfolio Link
 
