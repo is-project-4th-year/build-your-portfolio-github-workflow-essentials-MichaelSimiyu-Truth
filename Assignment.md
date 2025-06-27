@@ -2,9 +2,9 @@
 
 ## 1. Student Details
 
-- **Simiyu, Michael Keith Wanjala**:
-- **MichaelSimiyu-Truth**:
-- **michael.simiyu@strathmore.edu**:
+- **Full name**:Simiyu, Michael Keith Wanjala
+- **GitHub Username** MichaelSimiyu-Truth
+- **Email**: michael.simiyu@strathmore.edu
 
 ## 2. Deployed Portfolio Link
 
